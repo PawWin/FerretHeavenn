@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FerretHeavenn/static/css/main.3465772d.css",
-    "main.js": "/FerretHeavenn/static/js/main.83e0858a.js",
+    "main.js": "/FerretHeavenn/static/js/main.a8cc4ad0.js",
     "static/js/453.ed3810f9.chunk.js": "/FerretHeavenn/static/js/453.ed3810f9.chunk.js",
     "static/media/hero_pod.jpg": "/FerretHeavenn/static/media/hero_pod.dbc317f26bb202a426ff.jpg",
     "static/media/borys.jpg": "/FerretHeavenn/static/media/borys.8bdbd4926d2eef5a7f2c.jpg",
@@ -24,11 +24,11 @@
     "static/media/logo.svg": "/FerretHeavenn/static/media/logo.91e6d5efbaa7c6726298050dd825e590.svg",
     "index.html": "/FerretHeavenn/index.html",
     "main.3465772d.css.map": "/FerretHeavenn/static/css/main.3465772d.css.map",
-    "main.83e0858a.js.map": "/FerretHeavenn/static/js/main.83e0858a.js.map",
+    "main.a8cc4ad0.js.map": "/FerretHeavenn/static/js/main.a8cc4ad0.js.map",
     "453.ed3810f9.chunk.js.map": "/FerretHeavenn/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3465772d.css",
-    "static/js/main.83e0858a.js"
+    "static/js/main.a8cc4ad0.js"
   ]
 }
