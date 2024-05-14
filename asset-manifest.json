@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/FerretHeavenn/static/css/main.f855e6bc.css",
-    "main.js": "/FerretHeavenn/static/js/main.dc094521.js",
+    "main.css": "/FerretHeavenn/static/css/main.3465772d.css",
+    "main.js": "/FerretHeavenn/static/js/main.e987172a.js",
     "static/js/453.ed3810f9.chunk.js": "/FerretHeavenn/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/FerretHeavenn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/hero_pod.jpg": "/FerretHeavenn/static/media/hero_pod.dbc317f26bb202a426ff.jpg",
+    "static/media/borys.jpg": "/FerretHeavenn/static/media/borys.8bdbd4926d2eef5a7f2c.jpg",
+    "static/media/hero_img.jpg": "/FerretHeavenn/static/media/hero_img.a107bf9321774a0947c0.jpg",
+    "static/media/wolontariat_2.jpg": "/FerretHeavenn/static/media/wolontariat_2.346d78e664bd467459c8.jpg",
+    "static/media/gucio.jpg": "/FerretHeavenn/static/media/gucio.0fd30fec887b8b3920e5.jpg",
+    "static/media/how_to_adopt.jpg": "/FerretHeavenn/static/media/how_to_adopt.dac0e47983aa3afd401e.jpg",
+    "static/media/asia.jpg": "/FerretHeavenn/static/media/asia.fab4673b8f1d65e753a8.jpg",
+    "static/media/julcio.jpg": "/FerretHeavenn/static/media/julcio.9504b86aa252a76324db.jpg",
+    "static/media/kuba.jpg": "/FerretHeavenn/static/media/kuba.a2ddc1e32599cb05593b.jpg",
+    "static/media/wolontariat_1.jpg": "/FerretHeavenn/static/media/wolontariat_1.c77ea67656ee7826a93c.jpg",
+    "static/media/kamila.jpg": "/FerretHeavenn/static/media/kamila.cee91d9ccaf8c4699eb1.jpg",
+    "static/media/kot.jpg": "/FerretHeavenn/static/media/kot.0e5123aed8dab4be5829.jpg",
+    "static/media/ola.png": "/FerretHeavenn/static/media/ola.9b84884b60c9c54a0f61.png",
+    "static/media/andrei.jpg": "/FerretHeavenn/static/media/andrei.611a8a33d2a7fb497bbf.jpg",
+    "static/media/bogumil.jpg": "/FerretHeavenn/static/media/bogumil.e883af6cbdc8c53e0634.jpg",
+    "static/media/janusz.jpg": "/FerretHeavenn/static/media/janusz.be2fc41b659a2ecad82f.jpg",
+    "static/media/kasia.png": "/FerretHeavenn/static/media/kasia.5f7def2d844c72f7d191.png",
+    "static/media/last_adpt.jpg": "/FerretHeavenn/static/media/last_adpt.2e2179cc342d340ee335.jpg",
+    "static/media/logo.svg": "/FerretHeavenn/static/media/logo.91e6d5efbaa7c6726298050dd825e590.svg",
     "index.html": "/FerretHeavenn/index.html",
-    "main.f855e6bc.css.map": "/FerretHeavenn/static/css/main.f855e6bc.css.map",
-    "main.dc094521.js.map": "/FerretHeavenn/static/js/main.dc094521.js.map",
+    "main.3465772d.css.map": "/FerretHeavenn/static/css/main.3465772d.css.map",
+    "main.e987172a.js.map": "/FerretHeavenn/static/js/main.e987172a.js.map",
     "453.ed3810f9.chunk.js.map": "/FerretHeavenn/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.dc094521.js"
+    "static/css/main.3465772d.css",
+    "static/js/main.e987172a.js"
   ]
 }
